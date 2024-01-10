@@ -13,7 +13,7 @@ We hope to pass on the knowlege gained from past members to avoid mistakes and c
 2.0.0 First ever version for team 7538 with swerve drive! (hopefully it goes well)
 
 ## Contributors:
-Anthony Pinzon (lead coder), and hopefully new recruits
+Anthony Pinzon (lead coder), Chat GPT, and hopefully some new recruits that will be named
 
 Nolan (Graduated past lead coder, included for past contributions to programming)
 
